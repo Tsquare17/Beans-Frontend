@@ -11,7 +11,7 @@ namespace Beans\Frontend;
  * Plugin Name: Beans Frontend
  * Version:     0.1.0
  * Plugin URI:  https://trevor-thompson.com
- * Description: The companion plugin to Beans2, providing multi-frontend framework support.
+ * Description: The companion plugin to Beans, providing multi-frontend framework support.
  * Author:      Trevor Thompson
  * Author URI:  https://trevor-thompson.com/
  * Text Domain: beans-frontend
