@@ -1,0 +1,11 @@
+{
+    "name": "beans/frontend",
+    "description": "The companion plugin for Beans, providing multi-frontend framework support.",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "Beans\\Frontend\\": "src/",
+            "Beans\\Frontend\\Framework\\": "src/framework/"
+        }
+    }
+}
